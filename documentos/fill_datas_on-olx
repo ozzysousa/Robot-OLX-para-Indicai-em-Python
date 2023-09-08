@@ -1,0 +1,10 @@
+import json
+import sys
+
+# Recebe os dados como argumentos
+dados_coletados = json.loads(sys.argv[1])
+
+# Preenche o formulário com os dados
+# (aqui você implementaria a lógica real para preencher o formulário com os dados)
+print("Dados recebidos e formulário preenchido:")
+print(dados_coletados)

@@ -1,0 +1,11 @@
+# Coleta os dados do OLX
+dados_coletados = {
+    'nome': 'Exemplo de Nome',
+    'endereco': 'Exemplo de Endereço',
+    'telefone': 'Exemplo de Telefone'
+}
+
+# Chama o segundo código e passa os dados como argumentos
+import subprocess
+
+subprocess.run(['python', 'preencher_formulario.py', json.dumps(dados_coletados)])

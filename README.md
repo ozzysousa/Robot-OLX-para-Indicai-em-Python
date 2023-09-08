@@ -2,6 +2,7 @@
 Robô de coleta de dados da OLX e preenchimento automático de formulários em Python. Automatiza a captura de informações de anúncios imobiliários na OLX e o preenchimento em outro site.
 
 # Projeto de Automação da Web com Python
+Link do Repositório: https://github.com/ozzysousa/Robot-OLX-para-Indicai-em-Python
 
 Este projeto é uma solução de automação da web desenvolvida em Python para coletar informações de anúncios de imóveis na OLX e preencher um formulário em outro site com esses dados.
 
@@ -58,3 +59,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para melhorar este projeto 
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
+Segue o link do repositório: https://github.com/ozzysousa/Robot-OLX-para-Indicai-em-Python

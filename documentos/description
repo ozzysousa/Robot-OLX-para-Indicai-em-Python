@@ -1,0 +1,21 @@
+Esta pasta contém documentos essenciais relacionados ao projeto [Robot-OLX-para-Indicai-em-Python], organizados para facilitar o acesso e o gerenciamento de informações importantes. Os seguintes tópicos e documentos estão disponíveis:
+
+1. coletar_dados_do_olx.py:
+- Código-fonte em Python responsável por coletar dados do OLX.
+- Instruções de uso e configuração.
+
+2. preencher_dados_olx.py:
+- Código-fonte em Python responsável por preencher dados em um formulário no OLX.
+- Instruções de uso e configuração.
+
+3. chromedriver.exe:
+- O arquivo executável do ChromeDriver necessário para automação com o Selenium.
+- Certifique-se de que este arquivo esteja na mesma pasta que os scripts Python.
+
+4. fill_datas_on-olx:
+- Documento ou script relacionado ao preenchimento de dados no OLX.
+- Mais detalhes sobre como esse script se integra ao projeto.
+
+5. funtion_creat-data:
+- Documento ou script relacionado à criação de dados ou funções.
+- Explicação sobre o propósito e uso.
